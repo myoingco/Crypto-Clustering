@@ -33,7 +33,8 @@ Prior to execution, you must have Python. You must also have the necessary Start
 
         - The first five rows of the scaled DataFrame should appear as follows:
 
-The first five rows of the scaled DataFrame
+![image](https://github.com/user-attachments/assets/76817dad-a483-4504-bcf2-7a5821c2324d)
+
 
 ### Find the Best Value for k Using the Original Scaled DataFrame
 Use the elbow method to find the best value for k using the following steps:
@@ -67,7 +68,8 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
 
         - The first five rows of the PCA DataFrame should appear as follows:
 
-The first five rows of the PCA DataFrame
+![image](https://github.com/user-attachments/assets/69482870-d23b-4b8d-9be9-6b59222d7e4b)
+
 
 ### Find the Best Value for k Using the PCA Data
 Use the elbow method on the PCA data to find the best value for k using the following steps:
